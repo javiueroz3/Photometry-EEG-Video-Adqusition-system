@@ -1,0 +1,8 @@
+# List of mataerias for passive EEG-Photometry commutator
+
+1 Through Hole Conductive Rotary Slip(Inner Diameter 5mm 12 Wires 2A) thttps://www.amazon.com/dp/B07YJN9ZFW?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2&th=1
+1 Intan RHD 6-ft (1.8 m) standard SPI cable (Part #C3206)  https://www.intantech.com/RHD_SPI_cables.html?tabSelect=RHDSPIcables
+1 FC/PC to Ø1.25 mm Ferrule Rotary Joint Patch Cable, Ø400 µm Core, 3 m Long  https://www.thorlabs.com/fiber-optic-rotary-joint-patch-cables-for-optogenetics?pn=RJPFL4
+
+Instructions
+Cut the Intan cable in half and solder the corresponding wires to the Rotary slip cables. Then pass through the fiber cable in the rotary Slip hole.
